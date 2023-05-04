@@ -1,9 +1,3 @@
-'''vids:
-1. https://www.youtube.com/watch?v=DjpueFi5Jms
-2. https://www.youtube.com/watch?v=zRvhQ5Rf6-U   (piano)'''
-
-#CORRECT
-
 import pytube
 from pytube import YouTube #importing pytube library
 from tkinter import *  #importing tkinter for gui
